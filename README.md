@@ -70,7 +70,6 @@ mini_nars/                   Matthew's implementation
   Disease_symptom_and_patient_profile_dataset.csv
 
 medical_diagnosis/           Justin's implementation
-  __init__.py                package init
   nal_truth.py               NAL truth functions (deduction, revision)
   knowledge_base.py          hand-crafted clinical rules for 4 diseases
   narsese_translator.py      converts Python data to Narsese statements
